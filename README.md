@@ -1,13 +1,20 @@
-### Projects
+# israr2001
 
-- [gag2-sell-engine](https://github.com/israr2001/gag2-sell-engine) — client-side power-law sell estimator (weight^2.65, one mutation seat). [Live demo](https://growsagardencalculator.com/grow-a-garden-2-calculator/)
+Builder of **[TudoCálculo](https://tudocalculo.com)** — free Brazilian finance & CLT calculators.
 
-## Grow a Garden (Roblox) tools
+### Mais buscadas (P0)
+- [Salário líquido CLT 2026](https://tudocalculo.com/salario-liquido-clt/)
+- [Horas extras (50%/100% + DSR)](https://tudocalculo.com/horas-extras/)
+- [Rescisão trabalhista](https://tudocalculo.com/rescisao-trabalhista/)
+- [FGTS](https://tudocalculo.com/fgts/) · [Saque-aniversário](https://tudocalculo.com/saque-aniversario-fgts/)
+- [Férias + 1/3](https://tudocalculo.com/ferias/) · [13º salário](https://tudocalculo.com/decimo-terceiro/)
+- [Juros compostos](https://tudocalculo.com/juros-compostos/)
 
-Free calculators and guides: **[growsagardencalculator.com](https://growsagardencalculator.com/)**
+### Dívidas / cartão
+- [Pagamento mínimo](https://tudocalculo.com/pagamento-minimo-cartao/) · [Rotativo](https://tudocalculo.com/cartao-rotativo/) · [Quitação](https://tudocalculo.com/quitacao-dividas/)
 
-- [Link hub repo](https://github.com/israr2001/gag-calculator-hub)
-- [GitHub Pages hub](https://israr2001.github.io/gag-calculator-hub/)
-- [Pet weight calculator](https://growsagardencalculator.com/grow-a-garden-pet-weight-calculator/)
-- [Trade calculator](https://growsagardencalculator.com/grow-a-garden-trade-calculator/)
-- [Cooking recipes](https://growsagardencalculator.com/grow-a-garden-cooking-recipes/)
+### Hubs
+[Trabalho/CLT](https://tudocalculo.com/trabalho/) · [Finanças](https://tudocalculo.com/financas/) · [Todas](https://tudocalculo.com/calculadoras/)
+
+Link hub: https://israr2001.github.io/tudocalculo-calculadoras/  
+Gist P0: https://gist.github.com/israr2001/443cddb5b4ab4a69d91d475063bfb104
